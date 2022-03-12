@@ -2,7 +2,7 @@
 - 👀 I’m interested in stuff
 - 🌱 I’m currently learning more stuff
 - 💞️ I’m looking to collaborate on make the world a better place to live!
-- 📫 How to reach me? my phone is allway muted
+- 📫 How to reach me? my phone is allways muted
 - I dont care about git. More stuff on gilltrick.com
 
 <!---
